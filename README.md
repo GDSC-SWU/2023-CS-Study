@@ -22,7 +22,7 @@
   * 돌아가면서 한 명씩 질문을 뽑고, 대답하기
   * 그 주에 남긴 이슈에 대한 답변 공유하기
   
-# 참여 인원
+# 👩‍💻 참여 인원
 
 |[배지윤](https://github.com/jiyunBae007)|[박혜정](https://github.com/Park-HyeJeong)|[이서현](https://github.com/SeohyunLee0321)|[오윤선](https://github.com/sunnny17)|[최혜림](https://github.com/hyelim-choi)|
 | --- | --- | --- |--- | --- |
