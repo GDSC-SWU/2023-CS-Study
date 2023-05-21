@@ -26,6 +26,6 @@
 
 |[배지윤](https://github.com/jiyunBae007)|[박혜정](https://github.com/Park-HyeJeong)|[이서현](https://github.com/SeohyunLee0321)|[오윤선](https://github.com/sunnny17)|[최혜림](https://github.com/hyelim-choi)|
 | --- | --- | --- |--- | --- |
-|<img width="100" src="https://user-images.githubusercontent.com/63340879/231808117-97164d43-32da-44ed-85ca-c807603eef38.jpg"/>|<img width="100" src="https://user-images.githubusercontent.com/63340879/231808117-97164d43-32da-44ed-85ca-c807603eef38.jpg"/>|<img width="100" src="https://ifh.cc/g/52w7y0.png"/>|<img width="100" src="https://user-images.githubusercontent.com/109645891/231533110-35c27b68-2431-46b9-99d1-66d36d7f9dd1.png"/>|<img width="130" src="https://user-images.githubusercontent.com/86971536/231524340-060eb465-5da1-4369-bdbe-35ac416be410.jpg"/>|
+|<img width="100" src="https://user-images.githubusercontent.com/63340879/231808117-97164d43-32da-44ed-85ca-c807603eef38.jpg"/>|<img width="100" src="https://user-images.githubusercontent.com/63340879/231808117-97164d43-32da-44ed-85ca-c807603eef38.jpg"/>|<img width="100" src="C:\Users\zrowx\OneDrive\바탕 화면\기타\myImage.png"/>|<img width="100" src="https://user-images.githubusercontent.com/109645891/231533110-35c27b68-2431-46b9-99d1-66d36d7f9dd1.png"/>|<img width="130" src="https://user-images.githubusercontent.com/86971536/231524340-060eb465-5da1-4369-bdbe-35ac416be410.jpg"/>|
 
 
