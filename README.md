@@ -24,7 +24,7 @@
   
 # 참여 인원
 
-|[배지윤](https://github.com/jiyunBae007)|[박혜정](https://github.com/Park-HyeJeong)|[이서현](https://github.com/SeohyunLee0321)|[오윤선](https://github.com/sunnny17)|최혜림|
+|[배지윤](https://github.com/jiyunBae007)|[박혜정](https://github.com/Park-HyeJeong)|[이서현](https://github.com/SeohyunLee0321)|[오윤선](https://github.com/sunnny17)|[최혜림](https://github.com/hyelim-choi)|
 | --- | --- | --- |--- | --- |
 
 
